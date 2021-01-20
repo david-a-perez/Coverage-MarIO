@@ -1,5 +1,5 @@
 # Coverage MarI/O
-This project is an atempt to gather coverage through the use of NEAT. This is based off of Sethbling's MarI/O project. Unlike MarI/O, instead of using the player's coordinates to calculate fitness, this project uses the code coverage of the currect run to calculate fitness. Note that this project is not intended to be fast.
+This project is an attempt to gather coverage through the use of NEAT. This is based on Sethbling's MarI/O project. Unlike MarI/O, instead of using the player's coordinates to calculate fitness, this project uses the current run's code coverage to calculate fitness. Note that this project is not intended to be fast.
 
 # Setup
 1. Build BizHawk emulator from https://github.com/david-a-perez/BizHawk (this fork provides a way to read coverage data from a Lua plugin)
